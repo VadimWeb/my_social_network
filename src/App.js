@@ -4,6 +4,7 @@ import './App.css';
 const App = () => {
     return (
         <div className="App">
+            <Header/>
             <ul>
                 <li>css</li>
                 <li>HTML</li>
@@ -21,7 +22,7 @@ const Header = () => {
             <a href="">News Feed</a>
             <a href="">Messages</a>
         </div>
-    )
+    );
 }
 
 export default App;
