@@ -9,11 +9,14 @@ const App = () => {
                 <img src='https://dcassetcdn.com/design_img/1559024/551167/551167_7840631_1559024_911ff84c_image.png' />
             </header>
             <nav className='nav'>
-                <div>Profile</div>
-                <div>Messages</div>
+                <div> <a href=""> Profile</a></div>
+                <div><a href=""> Messages</a></div>
+                <div><a href=""> News</a></div>
+                <div><a href=""> Music</a></div>
+                <div><a href=""> Settings</a></div>
             </nav>
             <div className='content'>
-                Main Content
+                <img src="https://klike.net/uploads/posts/2019-01/1547365376_1.jpg" alt=""/>
             </div>
 
         </div>
