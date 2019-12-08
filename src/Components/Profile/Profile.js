@@ -4,7 +4,7 @@ import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
     return (
-        <div className={style.content}>
+        <div>
             <div><img src="https://klike.net/uploads/posts/2019-01/1547365376_1.jpg" alt=""/>
             </div>
             <div><img
